@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a1ff&secondaryColor=ff79c6&height=250&section=header&text=HETVI%20NILESH%20NATVARLAL&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=B.E.%20Computer%20Science%20|%20Aspiring%20HR%20Analyst&descSize=22&descAlignV=55&theme=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a1ff&secondaryColor=ff79c6&height=250&section=header&text=HETVI%20NILESH%20NATVARLAL&fontSize=60&animation=fadeIn&fontColor=ffffff&descAlignV=55&theme=gradient" />
 </p>
 
 
